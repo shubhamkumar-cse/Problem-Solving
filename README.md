@@ -11,6 +11,7 @@ A collection of Data Structures and Algorithms (DSA) solutions implemented in Ja
 - Backtracking
 - Collections
 - Exception Handling
+- Linked List
 - Logic Problems
 
 ## Tech Stack
